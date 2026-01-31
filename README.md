@@ -1,6 +1,5 @@
 # Gerold - Personal Portfolio HTML5 Template
 
-![Project Banner](assets/img/logo/logo.png)
 
 **Gerold** is a modern, responsive, and clean Personal Portfolio HTML5 Template designed for Web Developers, UX/UI Designers, and Creatives to showcase their work, skills, and experience.
 
